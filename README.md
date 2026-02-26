@@ -19,7 +19,7 @@
 
 2. **Navigate to the folder:**
    ```bash
-   cd aesthetic-terminal-karaoke
+   cd diet-mountain-dew
    ```
 
 3. **Install the aesthetic dependencies:**
@@ -29,7 +29,7 @@
 
 4. **pip install colorama**
    ```bash
-   python aesthetic_karaoke.py
+   python diet_mountain_dew.py
    ```
 
 ## 🎵 Customization
